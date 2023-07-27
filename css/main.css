@@ -1,0 +1,13 @@
+.traffic-light-container{
+    width: 100%;
+}
+
+.traffic-light{
+     margin: auto;
+    display: block;
+}
+
+button{
+    display: block;
+    margin: auto;
+}

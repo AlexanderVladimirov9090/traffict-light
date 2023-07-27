@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   version="1.1"
+   viewBox="0 0 512 512"
+   id="svg754"
+   sodipodi:docname="LED_traffic_light_yellow.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview756"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.4804688"
+     inkscape:cx="256.33773"
+     inkscape:cy="263.43008"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg754" />
+  <defs
+     id="defs24">
+    <linearGradient
+       id="reference-gradient">
+      <stop
+         stop-color="#2f2f33"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#232326"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="gradient2"
+       x1="612"
+       x2="612"
+       y1="168"
+       y2="170"
+       gradientTransform="translate(-352 8)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#reference-gradient" />
+    <linearGradient
+       id="gradient3"
+       x1="612"
+       x2="612"
+       y1="168"
+       y2="170"
+       gradientTransform="translate(-352 164)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#reference-gradient" />
+    <radialGradient
+       id="red-gradient">
+      <stop
+         stop-color="#ff7d93"
+         offset="0"
+         id="stop9" />
+      <stop
+         stop-color="#fd002a"
+         offset="1"
+         id="stop11" />
+    </radialGradient>
+    <radialGradient
+       id="yellow-gradient">
+      <stop
+         stop-color="#ffdf7d"
+         offset="0"
+         id="stop14" />
+      <stop
+         stop-color="#ffbf00"
+         offset="1"
+         id="stop16" />
+    </radialGradient>
+    <radialGradient
+       id="green-gradient">
+      <stop
+         stop-color="#66ffb4"
+         offset="0"
+         id="stop19" />
+      <stop
+         stop-color="#00e571"
+         offset="1"
+         id="stop21" />
+    </radialGradient>
+  </defs>
+  <rect
+     x="180"
+     y="172"
+     width="152"
+     height="12"
+     fill="url(#gradient2)"
+     id="rect26" />
+  <rect
+     x="180"
+     y="328"
+     width="152"
+     height="12"
+     fill="url(#gradient3)"
+     id="rect28" />
+  <g
+     fill="#333338"
+     id="g36">
+    <rect
+       x="180"
+       y="336"
+       width="152"
+       height="152"
+       id="rect30" />
+    <rect
+       x="180"
+       y="180"
+       width="152"
+       height="152"
+       id="rect32" />
+    <rect
+       x="180"
+       y="24"
+       width="152"
+       height="152"
+       id="rect34" />
+  </g>
+  <g
+     stroke="#262626"
+     stroke-width="8"
+     id="g44">
+    <circle
+       cx="256"
+       cy="100"
+       r="65"
+       id="circle38" />
+    <circle
+       cx="256"
+       cy="256"
+       r="65"
+       id="circle40" />
+    <circle
+       cx="256"
+       cy="412"
+       r="65"
+       id="circle42" />
+  </g>
+  <g
+     fill="url(#yellow-gradient)"
+     id="g516">
+    <circle
+       cx="255.99"
+       cy="249.5"
+       r="4"
+       id="circle282" />
+    <circle
+       cx="250.79"
+       cy="258.5"
+       r="4"
+       id="circle284" />
+    <circle
+       cx="261.19"
+       cy="258.5"
+       r="4"
+       id="circle286" />
+    <circle
+       cx="265.41"
+       cy="243.06"
+       r="4"
+       id="circle288" />
+    <circle
+       cx="271.22"
+       cy="251.05"
+       r="4"
+       id="circle290" />
+    <circle
+       cx="246.6"
+       cy="268.94"
+       r="4"
+       id="circle292" />
+    <circle
+       cx="256"
+       cy="272"
+       r="4"
+       id="circle294" />
+    <circle
+       cx="265.4"
+       cy="268.94"
+       r="4"
+       id="circle296" />
+    <circle
+       cx="271.21"
+       cy="260.94"
+       r="4"
+       id="circle298" />
+    <circle
+       cx="246.6"
+       cy="243.06"
+       r="4"
+       id="circle300" />
+    <circle
+       cx="240.78"
+       cy="251.05"
+       r="4"
+       id="circle302" />
+    <circle
+       cx="240.78"
+       cy="260.94"
+       r="4"
+       id="circle304" />
+    <circle
+       cx="256"
+       cy="240"
+       r="4"
+       id="circle306" />
+    <circle
+       cx="256"
+       cy="230"
+       r="4"
+       id="circle308" />
+    <circle
+       cx="265.95"
+       cy="231.97"
+       r="4"
+       id="circle310" />
+    <circle
+       cx="246.05"
+       cy="231.98"
+       r="4"
+       id="circle312" />
+    <circle
+       cx="237.61"
+       cy="237.61"
+       r="4"
+       id="circle314" />
+    <circle
+       cx="274.38"
+       cy="237.61"
+       r="4"
+       id="circle316" />
+    <circle
+       cx="256"
+       cy="230"
+       r="4"
+       id="circle318" />
+    <circle
+       cx="282"
+       cy="256"
+       r="4"
+       id="circle320" />
+    <circle
+       cx="230"
+       cy="256"
+       r="4"
+       id="circle322" />
+    <circle
+       cx="231.98"
+       cy="246.05"
+       r="4"
+       id="circle324" />
+    <circle
+       cx="280.02"
+       cy="246.05"
+       r="4"
+       id="circle326" />
+    <circle
+       cx="256"
+       cy="282"
+       r="4"
+       id="circle328" />
+    <circle
+       cx="265.95"
+       cy="280.02"
+       r="4"
+       id="circle330" />
+    <circle
+       cx="246.05"
+       cy="280.02"
+       r="4"
+       id="circle332" />
+    <circle
+       cx="237.61"
+       cy="274.38"
+       r="4"
+       id="circle334" />
+    <circle
+       cx="274.38"
+       cy="274.38"
+       r="4"
+       id="circle336" />
+    <circle
+       cx="256"
+       cy="282"
+       r="4"
+       id="circle338" />
+    <circle
+       cx="231.98"
+       cy="265.95"
+       r="4"
+       id="circle340" />
+    <circle
+       cx="280.02"
+       cy="265.94"
+       r="4"
+       id="circle342" />
+    <circle
+       cx="245.86"
+       cy="221.46"
+       r="4"
+       id="circle344" />
+    <circle
+       cx="266.14"
+       cy="221.46"
+       r="4"
+       id="circle346" />
+    <circle
+       cx="220.36"
+       cy="261.11"
+       r="4"
+       id="circle348" />
+    <circle
+       cx="236.54"
+       cy="225.71"
+       r="4"
+       id="circle350" />
+    <circle
+       cx="275.46"
+       cy="225.72"
+       r="4"
+       id="circle352" />
+    <circle
+       cx="223.25"
+       cy="241.04"
+       r="4"
+       id="circle354" />
+    <circle
+       cx="288.74"
+       cy="241.04"
+       r="4"
+       id="circle356" />
+    <circle
+       cx="283.2"
+       cy="232.42"
+       r="4"
+       id="circle358" />
+    <circle
+       cx="291.63"
+       cy="250.86"
+       r="4"
+       id="circle360" />
+    <circle
+       cx="220.37"
+       cy="250.86"
+       r="4"
+       id="circle362" />
+    <circle
+       cx="228.8"
+       cy="232.42"
+       r="4"
+       id="circle364" />
+    <circle
+       cx="228.78"
+       cy="279.57"
+       r="4"
+       id="circle366" />
+    <circle
+       cx="283.22"
+       cy="279.56"
+       r="4"
+       id="circle368" />
+    <circle
+       cx="288.75"
+       cy="270.94"
+       r="4"
+       id="circle370" />
+    <circle
+       cx="236.52"
+       cy="286.27"
+       r="4"
+       id="circle372" />
+    <circle
+       cx="275.48"
+       cy="286.28"
+       r="4"
+       id="circle374" />
+    <circle
+       cx="256"
+       cy="220"
+       r="4"
+       id="circle376" />
+    <circle
+       cx="223.25"
+       cy="270.94"
+       r="4"
+       id="circle378" />
+    <circle
+       cx="291.64"
+       cy="261.11"
+       r="4"
+       id="circle380" />
+    <circle
+       cx="245.83"
+       cy="290.54"
+       r="4"
+       id="circle382" />
+    <circle
+       cx="256"
+       cy="292"
+       r="4"
+       id="circle384" />
+    <circle
+       cx="266.16"
+       cy="290.53"
+       r="4"
+       id="circle386" />
+    <circle
+       cx="256"
+       cy="210"
+       r="4"
+       id="circle388" />
+    <circle
+       cx="245.76"
+       cy="211.16"
+       r="4"
+       id="circle390" />
+    <circle
+       cx="236.04"
+       cy="214.56"
+       r="4"
+       id="circle392" />
+    <circle
+       cx="266.24"
+       cy="211.16"
+       r="4"
+       id="circle394" />
+    <circle
+       cx="284.69"
+       cy="220.04"
+       r="4"
+       id="circle396" />
+    <circle
+       cx="220.03"
+       cy="227.33"
+       r="4"
+       id="circle398" />
+    <circle
+       cx="291.97"
+       cy="227.33"
+       r="4"
+       id="circle400" />
+    <circle
+       cx="227.31"
+       cy="220.04"
+       r="4"
+       id="circle402" />
+    <circle
+       cx="275.97"
+       cy="214.56"
+       r="4"
+       id="circle404" />
+    <circle
+       cx="214.55"
+       cy="236.05"
+       r="4"
+       id="circle406" />
+    <circle
+       cx="297.45"
+       cy="236.05"
+       r="4"
+       id="circle408" />
+    <circle
+       cx="300.85"
+       cy="245.78"
+       r="4"
+       id="circle410" />
+    <circle
+       cx="210"
+       cy="256"
+       r="4"
+       id="circle412" />
+    <circle
+       cx="302"
+       cy="256"
+       r="4"
+       id="circle414" />
+    <circle
+       cx="211.15"
+       cy="245.78"
+       r="4"
+       id="circle416" />
+    <circle
+       cx="256"
+       cy="302"
+       r="4"
+       id="circle418" />
+    <circle
+       cx="245.76"
+       cy="300.85"
+       r="4"
+       id="circle420" />
+    <circle
+       cx="236.04"
+       cy="297.45"
+       r="4"
+       id="circle422" />
+    <circle
+       cx="266.24"
+       cy="300.85"
+       r="4"
+       id="circle424" />
+    <circle
+       cx="284.68"
+       cy="291.96"
+       r="4"
+       id="circle426" />
+    <circle
+       cx="220.02"
+       cy="284.67"
+       r="4"
+       id="circle428" />
+    <circle
+       cx="291.97"
+       cy="284.67"
+       r="4"
+       id="circle430" />
+    <circle
+       cx="227.32"
+       cy="291.96"
+       r="4"
+       id="circle432" />
+    <circle
+       cx="275.96"
+       cy="297.44"
+       r="4"
+       id="circle434" />
+    <circle
+       cx="214.55"
+       cy="275.95"
+       r="4"
+       id="circle436" />
+    <circle
+       cx="297.45"
+       cy="275.95"
+       r="4"
+       id="circle438" />
+    <circle
+       cx="300.85"
+       cy="266.22"
+       r="4"
+       id="circle440" />
+    <circle
+       cx="211.15"
+       cy="266.22"
+       r="4"
+       id="circle442" />
+    <circle
+       cx="256"
+       cy="200"
+       r="4"
+       id="circle444" />
+    <circle
+       cx="265.72"
+       cy="200.85"
+       r="4"
+       id="circle446" />
+    <circle
+       cx="246.28"
+       cy="200.85"
+       r="4"
+       id="circle448" />
+    <circle
+       cx="275.15"
+       cy="203.37"
+       r="4"
+       id="circle450" />
+    <circle
+       cx="236.85"
+       cy="203.38"
+       r="4"
+       id="circle452" />
+    <circle
+       cx="228"
+       cy="207.5"
+       r="4"
+       id="circle454" />
+    <circle
+       cx="284"
+       cy="207.5"
+       r="4"
+       id="circle456" />
+    <circle
+       cx="292"
+       cy="213.1"
+       r="4"
+       id="circle458" />
+    <circle
+       cx="213.1"
+       cy="220"
+       r="4"
+       id="circle460" />
+    <circle
+       cx="298.9"
+       cy="220"
+       r="4"
+       id="circle462" />
+    <circle
+       cx="207.5"
+       cy="228"
+       r="4"
+       id="circle464" />
+    <circle
+       cx="308.62"
+       cy="236.85"
+       r="4"
+       id="circle466" />
+    <circle
+       cx="203.38"
+       cy="236.84"
+       r="4"
+       id="circle468" />
+    <circle
+       cx="304.5"
+       cy="228"
+       r="4"
+       id="circle470" />
+    <circle
+       cx="220.01"
+       cy="213.1"
+       r="4"
+       id="circle472" />
+    <circle
+       cx="200.85"
+       cy="246.27"
+       r="4"
+       id="circle474" />
+    <circle
+       cx="200"
+       cy="256"
+       r="4"
+       id="circle476" />
+    <circle
+       cx="311.15"
+       cy="246.28"
+       r="4"
+       id="circle478" />
+    <circle
+       cx="312"
+       cy="256"
+       r="4"
+       id="circle480" />
+    <circle
+       cx="256"
+       cy="312"
+       r="4"
+       id="circle482" />
+    <circle
+       cx="265.73"
+       cy="311.15"
+       r="4"
+       id="circle484" />
+    <circle
+       cx="246.27"
+       cy="311.15"
+       r="4"
+       id="circle486" />
+    <circle
+       cx="275.15"
+       cy="308.62"
+       r="4"
+       id="circle488" />
+    <circle
+       cx="236.85"
+       cy="308.62"
+       r="4"
+       id="circle490" />
+    <circle
+       cx="228"
+       cy="304.5"
+       r="4"
+       id="circle492" />
+    <circle
+       cx="284"
+       cy="304.5"
+       r="4"
+       id="circle494" />
+    <circle
+       cx="292"
+       cy="298.9"
+       r="4"
+       id="circle496" />
+    <circle
+       cx="213.11"
+       cy="291.99"
+       r="4"
+       id="circle498" />
+    <circle
+       cx="298.9"
+       cy="291.99"
+       r="4"
+       id="circle500" />
+    <circle
+       cx="207.5"
+       cy="284"
+       r="4"
+       id="circle502" />
+    <circle
+       cx="308.62"
+       cy="275.15"
+       r="4"
+       id="circle504" />
+    <circle
+       cx="203.38"
+       cy="275.15"
+       r="4"
+       id="circle506" />
+    <circle
+       cx="304.5"
+       cy="284"
+       r="4"
+       id="circle508" />
+    <circle
+       cx="220"
+       cy="298.9"
+       r="4"
+       id="circle510" />
+    <circle
+       cx="200.85"
+       cy="265.73"
+       r="4"
+       id="circle512" />
+    <circle
+       cx="311.14"
+       cy="265.72"
+       r="4"
+       id="circle514" />
+  </g>
+</svg>
