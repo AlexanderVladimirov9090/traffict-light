@@ -1,29 +1,39 @@
-.traffic-light-container{
+.traffic-light-container {
     width: 100%;
 }
 
-.traffic-light{
-     margin: auto;
+.traffic-light {
+    margin: auto;
     display: block;
 }
-.body-of-trafic-light{
+
+.body-of-traffic-light {
     background-color: #333338;
     height: 100vh;
-    width: 80px; 
+    width: 80px;
     margin: auto;
     padding: 10px;
     object-fit: cover;
-object-position: 25% 25%; 
-    
+    object-position: 25% 25%;
+
 }
-button{
+
+button {
     display: block;
     margin: auto;
     background-color: #333338;
 }
 
-#traffic-light-switch{
+#traffic-light-switch {
     height: 100px;
     width: 50px;
-  }
-  
+}
+
+
+/* max width 530 */
+
+@media only screen and (max-width: 543px) {
+    .body-of-traffic-light {
+        margin-left: 206px;
+    }
+}
