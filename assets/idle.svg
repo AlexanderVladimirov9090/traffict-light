@@ -21,16 +21,20 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="1.4804688"
-     inkscape:cx="256.33773"
-     inkscape:cy="256"
+     showgrid="true"
+     inkscape:zoom="133.99674"
+     inkscape:cx="305.14549"
+     inkscape:cy="497.02702"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg754" />
+     inkscape:current-layer="svg754">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5405" />
+  </sodipodi:namedview>
   <defs
      id="defs24">
     <linearGradient
@@ -154,4 +158,11 @@
        r="65"
        id="circle42" />
   </g>
+  <rect
+     style="fill:#333338;fill-opacity:1;stroke:#000000;stroke-width:0"
+     id="rect1296-7"
+     width="99.958885"
+     height="31.746706"
+     x="206.03661"
+     y="480.8443" />
 </svg>

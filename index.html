@@ -1,19 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>   
-    <link rel="stylesheet" type="text/css" href="css/main.css"></link>
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    </link>
 </head>
+
 <body>
+    
     <script src="/java-script/main.js"></script>
     <div class="traffic-light-container" id="trafic-light">
-        <img id="traffic-light" class="traffic-light" src = "/assets/idle.svg" alt="traffic-light"/>
-    </div> 
-    <button id="command-button" onclick="start_stop()">Start</button>
+        <img id="traffic-light" class="traffic-light" src="/assets/idle.svg" alt="traffic-light" />
+    </div>
+    <div class="body-of-trafic-light">
+        <button id="command-button" onclick="start_stop()">
+            <img id="traffic-light-switch" class="traffic-light" src="./assets/switch-off.svg" alt="traffic-light" />
+        </button>
+    </div>
+   
     <script>
         setTimeout(start_stop(), 1000);
     </script>
 </body>
+
 </html>

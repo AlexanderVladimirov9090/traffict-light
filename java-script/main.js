@@ -6,9 +6,11 @@ const configuration = {
     trafficLightInterval: 2000,
     pausedLightInterval: 1000,
     runningInterval: undefined,
-    availableLight: [{image:'/assets/red.svg', delay:30000}, {image:'/assets/red-yellow.svg', delay:2000},{ image:'/assets/yellow.svg', delay:1000},{ image:'/assets/green.svg', delay:30000}, {image:'/assets/idle.svg', delay:1000}],
+    availableLight: [{image:'/assets/red.svg', delay:5000}, {image:'/assets/red-yellow.svg', delay:2000},{ image:'/assets/yellow.svg', delay:1000},{ image:'/assets/green.svg', delay:5000}, {image:'/assets/idle.svg', delay:1000}],
     elementId: 'traffic-light',
-    buttonId: 'command-button'
+    buttonId: 'traffic-light-switch',
+    switchOn:'/assets/switch-on.svg',
+    switchOff:'/assets/switch-off.svg'
 }
 
 const sleepFor = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
@@ -73,5 +75,5 @@ function getTrafficLight() {
 }
 
 function setButtonTitle() {
-    document.getElementById(configuration.buttonId).innerText = !configuration.isRunning ? "Pause" : "Start";
+    document.getElementById(configuration.buttonId).src = !configuration.isRunning ? configuration.switchOff : configuration.switchOn;
 }
